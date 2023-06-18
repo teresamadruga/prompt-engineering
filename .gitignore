@@ -162,6 +162,6 @@ cython_debug/
 
 # Files and Directories
 *.DS_Store
-*/notebooks-html/*
+*notebooks-html*
 *ini.cfg
 LLM-transform-ipython-*
